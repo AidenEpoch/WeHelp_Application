@@ -1,0 +1,236 @@
+body{
+    background-color: rgb(238, 228, 215);
+}
+nav{
+    position: sticky;
+    top:1px;
+}
+
+nav  a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    font-size: 0.75em;
+    padding: 5px;
+    align-content: center;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    width: 95%;
+    border: solid black;
+    border-radius: 5px;
+    background-color: rgb(106, 102, 96);
+}
+
+
+
+#firstQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#firstQ:hover{
+    background-color: rgb(172, 165, 156);
+    color: white;
+    font-size: 1.2em;
+}
+
+#secondQ{
+    width:12.5%;
+    text-align: center;
+}
+
+#secondQ:hover{
+    background-color: rgb(203, 188, 152);
+    color: white;
+    font-size: 1.2em;
+}
+
+#thirdQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#thirdQ:hover{
+    background-color: rgb(172, 165, 156);
+    color: white;
+    font-size: 1.2em;
+}
+
+#forthQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#forthQ:hover{
+    background-color: rgb(203, 188, 152);
+    color: white;
+    font-size: 1.2em;
+}
+
+#fifthQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#fifthQ:hover{
+    background-color: rgb(172, 165, 156);
+    color: white;
+    font-size: 1.2em;
+}
+
+#sixthQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#sixthQ:hover{
+    background-color: rgb(203, 188, 152);
+    color: white;
+    font-size: 1.2em;
+}
+
+#seventhQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#seventhQ:hover{
+    background-color: rgb(172, 165, 156);
+    color: white;
+    font-size: 1.2em;
+}
+
+#eighthQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#eighthQ:hover{
+    background-color: rgb(203, 188, 152);
+    color: white;
+    font-size: 1.2em;
+}
+
+#ninthQ{
+    width: 12.5%;
+    text-align: center;
+}
+
+#ninthQ:hover{
+    background-color: rgb(172, 165, 156);
+    color: white;
+    font-size: 1.2em;
+}
+
+.questionFont:hover{
+    color: black;
+}
+
+.questionFont{
+    color: rgb(238,228,215);
+}
+
+
+#bigTitle{
+    font-size: 2.5em;
+    color: rgb(66, 21, 21);
+    font-weight: bold;
+}
+
+.weHelp{
+    font-family:serif;
+    font-style: italic;
+}
+
+.contentBlock{
+    height: 400px;
+    overflow-x:scroll;
+    overflow-y:scroll;
+}
+
+.contentTitle{
+    font-weight: bold;
+    font-size: 1.15em;
+    color: rgb(66, 21, 21);
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#firstBlock{
+    background-color: rgb(172, 165, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 50px;
+}
+
+#secondBlock{
+    background-color: rgb(203, 188, 152);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 360px;
+}
+
+#thirdBlock{
+    background-color: rgb(172, 165, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 50px;
+}
+
+#forthBlock{
+    background-color: rgb(203, 188, 152);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 360px;
+}
+
+#fifthBlock{
+    background-color: rgb(172, 165, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 50px;
+}
+
+#sixthBlock{
+    background-color: rgb(203, 188, 152);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 360px;
+}
+
+#seventhBlock{
+    background-color: rgb(172, 165, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 50px;
+}
+
+#eighthBlock{
+    background-color: rgb(203, 188, 152);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 360px;
+}
+
+#ninthBlock{
+    background-color: rgb(172, 165, 156);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 72%;
+    margin-left: 50px;
+}
+
+.blockContent{
+    margin-left: 20px;
+}
